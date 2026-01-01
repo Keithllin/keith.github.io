@@ -17,7 +17,7 @@ I received my BS degree in Aerospace Engineering at Sun Yat-sen University. Duri
 
 In addition to academic research, I gained industry experience as a machine learning engineer intern at Shenzhen Haoya IoT Co., Ltd., where I worked on algorithm development for sign language translation systems. My work involved developing on device sign language translation AI models, as well as processing and analyzing sign language data. It further strengthened my interest in developing assistive robotic systems that are both technically robust and practically meaningful.
 
-Besides doing reaserch, I also have interest in music and sports. I used to be a member of a band called Decide it tommorow, as singer and guitarist. Also I like to do basketball, jogging and workout. Fell free to contact me if there's anything you feel interesting!
+Besides doing reaserch, I also have interest in music and sports. I used to be a member of a band called Decide it tommorow, as singer and guitarist. Also I like to do basketball, jogging and workout. Feel free to contact me if there's anything you feel interesting!
 
 ---
 
